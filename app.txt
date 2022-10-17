@@ -1,0 +1,6 @@
+The steps:
+Write the divisors of positive integer "a"
+Write the divisors of positive integer "b"
+List the commom divisors of "a" and "b"
+Find the divisor which is the highest of both "a" and "b"
+
